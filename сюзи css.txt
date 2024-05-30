@@ -1,69 +1,15 @@
-.color_q3{
-    color: rgb(221, 168, 223);
-    font-size: large;    
-}
-.img1{
-    width: 300px;
-    height: 300px;
-}
-.div_q11{
-    width: 300px;
-    height: 300px;
-}
-.chacha{
-    background-color: rgb(235, 161, 192);
-}
-.kaka{
-    background-color:rgb(226, 213, 99);
-}
-.bombom {
-    background-color: rgb(144, 214, 214);
-}
-.lolo{
-    background-color:  rgb(221, 175, 107);
-}
-.gog{
-    background-color:  rgb(173, 127, 216);
-}
-.soso{
-    background-color: rgb(165, 187, 144);
-}
-.qqq{
-    background-color: rgb(168, 161, 202);
-}
-.nono{
-    background-color: aquamarine;
-}
-.wow{
-    background-color: rgb(142, 173, 187);
-}
-.pisaaa{
-    background-color: rgb(202, 161, 161);
-}
-
-/* Задание №14 */
-.img2{
-    width: 300px;
-    height: 200px;
-}
-.button_q9c{
-    background-color: rgb(125, 185, 117);
-}
-
-
-/* 11 Задание */
 .v1_99{
     width: 1440px;
-    height: 400px;
+    height: 4423px;
     position: relative;
-    background-color:rgb(235, 161, 192);
-}
+    background: white
+} 
 .v1_100{
     height: 830px; 
     left: 0px; 
     top: 1px; 
     position: absolute; 
-    background: rgb(99, 226, 226);
+    background: white; 
     flex-direction: column; 
     justify-content: flex-start; 
     align-items: flex-start; 
@@ -72,8 +18,7 @@
 .v1_101{
     width: 1440px; 
     height: 156px; 
-    position: relative;
-    background-color: rgb(204, 95, 146);
+    position: relative
 }
 .v1_102{
     padding-left: 20px; 
@@ -105,15 +50,15 @@
     gap: 94px; display: flex
 }
 .v1_106{
-    padding: 20px; 
+    padding: 10px; 
     justify-content: flex-start; 
     align-items: center; 
-    gap: 20px; 
+    gap: 10px; 
     display: flex
 }
 .v1_107{
     text-align: center; 
-    color: #000000; 
+    color: #FA4A0C; 
     font-size: 16px; 
     font-family: Montserrat; 
     font-weight: 600; 
@@ -130,7 +75,7 @@
 }
 .v1_109{
     text-align: center; 
-    color: #99a5d1; 
+    color: #252B42; 
     font-size: 16px; 
     font-family: Montserrat; 
     font-weight: 600; 
@@ -147,7 +92,7 @@
 }
 .v1_111{
     text-align: center; 
-    color: #99a1c0; 
+    color: #252B42; 
     font-size: 16px; 
     font-family: Montserrat; 
     font-weight: 600; 
@@ -164,7 +109,7 @@
 }
 .v1_113{
     text-align: center; 
-    color: #929bc0; 
+    color: #252B42; 
     font-size: 16px; 
     font-family: Montserrat; 
     font-weight: 600; 
